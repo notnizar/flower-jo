@@ -5,6 +5,10 @@
 **Online stores for flower shops that sell on WhatsApp and Instagram.**<br>
 One codebase and one database serve every shop. A new shop is a database row plus a DNS record.
 
+### [View the live demo store →](https://petal.164.92.163.208.sslip.io/)
+
+[Demo store (Petal & Co)](https://petal.164.92.163.208.sslip.io/) · [Landing page](https://164.92.163.208.sslip.io/)
+
 ![Next.js 16](https://img.shields.io/badge/Next.js-16-black)
 ![React 19](https://img.shields.io/badge/React-19-149eca)
 ![PostgreSQL 17](https://img.shields.io/badge/PostgreSQL-17-336791)
